@@ -1,0 +1,2 @@
+nohup python train-tinyTimeMixer.py --config-file ./config/tinyTimeMixer-16-3-3.json > ./training/tinyTimeMixer-16-3-3.out 2>&1
+nohup python train-tinyTimeMixer.py --config-file ./config/tinyTimeMixer-16-3-4.json > ./training/tinyTimeMixer-16-3-4.out 2>&1
