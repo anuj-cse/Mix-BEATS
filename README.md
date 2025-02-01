@@ -16,10 +16,10 @@ The table below compares the forecasting performance of Mix-Beats with N-BEATS a
 
 | Model      |   Dataset   | NRMSE  |
 |------------|----------   |------- |
-| Mix-BEATS  | Commertial  | *20.37*  |
+| Mix-BEATS  | Commertial  | **20.37**  |
 | N-BEATS    | Commertial  | 25.80  |
 | TTMs       | Commertial  | 22.36  |
-| Mix-BEATS  | Residential | *81.33*  |
+| Mix-BEATS  | Residential | **81.33**  |
 | N-BEATS    | Residential | 84.26  |
 | TTMs       | Residential | 81.45   | 
 
